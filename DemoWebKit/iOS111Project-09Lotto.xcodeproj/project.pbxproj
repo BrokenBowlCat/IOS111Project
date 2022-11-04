@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		206F514B290BB738007B206D /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		20E234D1290BA214007BD3AD /* DemoWebKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoWebKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		20E234D1290BA214007BD3AD /* iOS111Project-09Lotto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS111Project-09Lotto.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		20E234D4290BA214007BD3AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20E234D6290BA214007BD3AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		20E234D8290BA214007BD3AD /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		20E234C8290BA214007BD3AD = {
 			isa = PBXGroup;
 			children = (
-				20E234D3290BA214007BD3AD /* DemoWebKit */,
+				20E234D3290BA214007BD3AD /* iOS111Project-09Lotto */,
 				20E234D2290BA214007BD3AD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		20E234D2290BA214007BD3AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				20E234D1290BA214007BD3AD /* DemoWebKit.app */,
+				20E234D1290BA214007BD3AD /* iOS111Project-09Lotto.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		20E234D3290BA214007BD3AD /* DemoWebKit */ = {
+		20E234D3290BA214007BD3AD /* iOS111Project-09Lotto */ = {
 			isa = PBXGroup;
 			children = (
 				20E234D4290BA214007BD3AD /* AppDelegate.swift */,
@@ -67,15 +67,15 @@
 				20E234DF290BA215007BD3AD /* LaunchScreen.storyboard */,
 				20E234E2290BA215007BD3AD /* Info.plist */,
 			);
-			path = DemoWebKit;
+			path = "iOS111Project-09Lotto";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		20E234D0290BA214007BD3AD /* DemoWebKit */ = {
+		20E234D0290BA214007BD3AD /* iOS111Project-09Lotto */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 20E234E5290BA215007BD3AD /* Build configuration list for PBXNativeTarget "DemoWebKit" */;
+			buildConfigurationList = 20E234E5290BA215007BD3AD /* Build configuration list for PBXNativeTarget "iOS111Project-09Lotto" */;
 			buildPhases = (
 				20E234CD290BA214007BD3AD /* Sources */,
 				20E234CE290BA214007BD3AD /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = DemoWebKit;
+			name = "iOS111Project-09Lotto";
 			productName = DemoWebKit;
-			productReference = 20E234D1290BA214007BD3AD /* DemoWebKit.app */;
+			productReference = 20E234D1290BA214007BD3AD /* iOS111Project-09Lotto.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 20E234CC290BA214007BD3AD /* Build configuration list for PBXProject "DemoWebKit" */;
+			buildConfigurationList = 20E234CC290BA214007BD3AD /* Build configuration list for PBXProject "iOS111Project-09Lotto" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				20E234D0290BA214007BD3AD /* DemoWebKit */,
+				20E234D0290BA214007BD3AD /* iOS111Project-09Lotto */,
 			);
 		};
 /* End PBXProject section */
@@ -343,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		20E234CC290BA214007BD3AD /* Build configuration list for PBXProject "DemoWebKit" */ = {
+		20E234CC290BA214007BD3AD /* Build configuration list for PBXProject "iOS111Project-09Lotto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20E234E3290BA215007BD3AD /* Debug */,
@@ -352,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		20E234E5290BA215007BD3AD /* Build configuration list for PBXNativeTarget "DemoWebKit" */ = {
+		20E234E5290BA215007BD3AD /* Build configuration list for PBXNativeTarget "iOS111Project-09Lotto" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				20E234E6290BA215007BD3AD /* Debug */,
